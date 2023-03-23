@@ -1,1 +1,1 @@
-https://github.com/fleriking
+https://fleriking.github.io/rsschool-cv/cv
